@@ -1,0 +1,28 @@
+body{
+  background-color:#EEEEEE;
+}
+i{
+  color: #4183D7;
+}
+p{
+  font-size: 12px;
+}
+.insidebox{
+  background-color: #FFFFFF;
+  padding: 30px 5px;
+  border-radius: 20px;
+  margin: 30px 0px;
+}
+a{
+  border-bottom: 1px solid;
+  
+}
+.text{
+  margin-top: 10px 0px;
+
+}
+.box{
+  padding:60px ;
+  
+  
+}
